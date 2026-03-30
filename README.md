@@ -1,1 +1,1 @@
-![image] (https://i.imgur.com/mXHZfkU.jpeg).
+![image](https://github.com/JeniyaR/Online---Store---Coffee-Tea/upload/main)
