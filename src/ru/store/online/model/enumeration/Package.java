@@ -5,6 +5,4 @@ public enum Package {
     PAPER, STILL, BOX;
 
 
-
-
 }

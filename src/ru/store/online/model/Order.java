@@ -8,8 +8,6 @@ import java.time.LocalDateTime;
 public class Order {
 
 
-
-
     private LocalDateTime date;
 
     private User usser;
@@ -20,9 +18,7 @@ public class Order {
 
     private Status status;
 
-    private CartItem[]  cartItemArray;
-
-
+    private CartItem[] cartItemArray;
 
 
     public LocalDateTime getDate() {

@@ -20,9 +20,6 @@ public class User {
     private Role role;
 
 
-
-
-
     public String getName() {
         return name;
     }

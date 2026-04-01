@@ -5,8 +5,6 @@ import ru.store.online.model.enumeration.Manufacturer;
 import ru.store.online.model.enumeration.Package;
 
 
-
-
 import java.math.BigDecimal;
 
 public abstract class Drink {
@@ -19,10 +17,9 @@ public abstract class Drink {
 
     private Manufacturer manufacturer;
 
-private Country country;
+    private Country country;
 
-private Package aPackage;
-
+    private Package aPackage;
 
 
 //геттеры и сеттеры
