@@ -7,10 +7,10 @@ import java.time.LocalDateTime;
 
 public class Order {
 
-
+  // Лишние строки
     private LocalDateTime date;
 
-    private User usser;
+    private User usser; // user
 
     private Adress adress;
 
@@ -20,7 +20,7 @@ public class Order {
 
     private CartItem[] cartItemArray;
 
-
+  // Лишние строки
     public LocalDateTime getDate() {
         return date;
     }
@@ -39,11 +39,11 @@ public class Order {
 
     public Adress getAdress() {
         return adress;
-    }
+  } // getAddress
 
     public void setAdress(Adress adress) {
         this.adress = adress;
-    }
+    } // setAddress
 
     public BigDecimal getTotalPrice() {
         return totalPrice;

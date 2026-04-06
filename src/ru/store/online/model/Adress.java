@@ -2,7 +2,7 @@ package ru.store.online.model;
 
 import ru.store.online.model.enumeration.Country;
 
-public class Adress {
+public class Adress { // Address пропустил букву d
 
     private Country country;
 
@@ -18,7 +18,7 @@ public class Adress {
 
     private String index;
 
-
+  // Лишние строки
     public Country getCountry() {
         return country;
     }

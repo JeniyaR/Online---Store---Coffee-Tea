@@ -21,9 +21,9 @@ public abstract class Drink {
 
     private Package aPackage;
 
-
-//геттеры и сеттеры
-
+  // Лишние строки
+//геттеры и сеттеры это лишнее
+// Лишние строки
     public String getName() {
         return name;
     }
