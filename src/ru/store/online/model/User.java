@@ -4,7 +4,7 @@ import ru.store.online.model.enumeration.Role;
 
 public class User {
 
-
+  // Лишние строки
     private String name;
 
     private String lastName;
@@ -19,7 +19,7 @@ public class User {
 
     private Role role;
 
-
+  // Лишние строки
     public String getName() {
         return name;
     }

@@ -9,7 +9,7 @@ public class Coffee extends Drink {
 
     private Roasting roasting;
 
-
+  // Лишние строки
     public CoffeeType getCoffeeType() {
         return coffeeType;
     }

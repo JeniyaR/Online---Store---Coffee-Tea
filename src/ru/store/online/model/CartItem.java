@@ -6,7 +6,7 @@ public class CartItem {
 
     private Short count;
 
-
+  // Лишние строки
     public Drink getDrink() {
         return drink;
     }

@@ -9,7 +9,7 @@ public class Tea extends Drink {
 
     private Aroma aroma;
 
-
+  // Лишние строки
     public TeaType getTeaType() {
         return teaType;
     }
