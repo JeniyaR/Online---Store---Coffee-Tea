@@ -4,7 +4,6 @@ import ru.store.online.model.enumeration.Role;
 
 public class User {
 
-
     private String name;
 
     private String lastName;
@@ -18,7 +17,6 @@ public class User {
     private String password;
 
     private Role role;
-
 
     public String getName() {
         return name;
@@ -74,7 +72,6 @@ public class User {
 
     public void setRole(Role role) {
         this.role = role;
-
 
     }
 }

@@ -18,7 +18,6 @@ public class Adress {
 
     private String index;
 
-
     public Country getCountry() {
         return country;
     }

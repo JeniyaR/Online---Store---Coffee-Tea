@@ -21,15 +21,7 @@ public abstract class Drink {
 
     private Package aPackage;
 
-
 //геттеры и сеттеры
-
-
-
-
-
-
-
 
     public String getName() {
         return name;
@@ -77,15 +69,6 @@ public abstract class Drink {
 
     public void setaPackage(Package aPackage) {
         this.aPackage = aPackage;
-
-
-
-
-
-
-
-
-
 
     }
 }
