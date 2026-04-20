@@ -10,6 +10,13 @@ public class Coffee extends Drink {
     private Roasting roasting;
 
 
+
+
+
+
+
+
+
     public CoffeeType getCoffeeType() {
         return coffeeType;
     }
